@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **AWS, Typescript, Nextjs, Postgres**
 - 👯 I’m looking to collaborate on **Full Stack Web Development Projects**
 - 📫 How to reach me **shinderutviksandeep@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AhKCpo94Fev251Z7xife3QJ2Zf-667nH/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1AhKCpo94Fev251Z7xife3QJ2Zf-667nH/view?usp=sharing](https://drive.google.com/file/d/11m5tRVyn1RRaKXxI3d40opoakXJIpIyr/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
